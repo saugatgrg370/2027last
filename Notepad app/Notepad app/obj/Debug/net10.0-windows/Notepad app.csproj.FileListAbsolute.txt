@@ -1,0 +1,31 @@
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\Notepad app.exe
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\Notepad app.deps.json
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\Notepad app.runtimeconfig.json
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\Notepad app.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\Notepad app.pdb
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\Google.Protobuf.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\MySql.Data.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\ZstdSharp.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\GurungSaugat\Notepad app\Notepad app\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad app.csproj.AssemblyReference.cache
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad_app.Form1.resources
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad app.csproj.GenerateResource.cache
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad app.GeneratedMSBuildEditorConfig.editorconfig
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad app.AssemblyInfoInputs.cache
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad app.AssemblyInfo.cs
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad app.csproj.CoreCompileInputs.cache
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad app.sourcelink.json
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad .2F9F6D25.Up2Date
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad app.dll
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\refint\Notepad app.dll
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad app.pdb
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\Notepad app.genruntimeconfig.cache
+D:\GurungSaugat\Notepad app\Notepad app\obj\Debug\net10.0-windows\ref\Notepad app.dll
