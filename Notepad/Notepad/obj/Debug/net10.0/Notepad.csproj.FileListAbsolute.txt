@@ -1,0 +1,15 @@
+D:\GurungSaugat\Notepad\Notepad\bin\Debug\net10.0\Notepad.exe
+D:\GurungSaugat\Notepad\Notepad\bin\Debug\net10.0\Notepad.deps.json
+D:\GurungSaugat\Notepad\Notepad\bin\Debug\net10.0\Notepad.runtimeconfig.json
+D:\GurungSaugat\Notepad\Notepad\bin\Debug\net10.0\Notepad.dll
+D:\GurungSaugat\Notepad\Notepad\bin\Debug\net10.0\Notepad.pdb
+D:\GurungSaugat\Notepad\Notepad\obj\Debug\net10.0\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\GurungSaugat\Notepad\Notepad\obj\Debug\net10.0\Notepad.AssemblyInfoInputs.cache
+D:\GurungSaugat\Notepad\Notepad\obj\Debug\net10.0\Notepad.AssemblyInfo.cs
+D:\GurungSaugat\Notepad\Notepad\obj\Debug\net10.0\Notepad.csproj.CoreCompileInputs.cache
+D:\GurungSaugat\Notepad\Notepad\obj\Debug\net10.0\Notepad.sourcelink.json
+D:\GurungSaugat\Notepad\Notepad\obj\Debug\net10.0\Notepad.dll
+D:\GurungSaugat\Notepad\Notepad\obj\Debug\net10.0\refint\Notepad.dll
+D:\GurungSaugat\Notepad\Notepad\obj\Debug\net10.0\Notepad.pdb
+D:\GurungSaugat\Notepad\Notepad\obj\Debug\net10.0\Notepad.genruntimeconfig.cache
+D:\GurungSaugat\Notepad\Notepad\obj\Debug\net10.0\ref\Notepad.dll
